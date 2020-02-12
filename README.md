@@ -1,2 +1,2 @@
 # yoga_for_beginners
-A web app for beginner yoga practitioners
+A web app for beginners to track their yoga journey!
